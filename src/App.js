@@ -1,8 +1,9 @@
 // import Counter from './components/Counter';
 // import LeapYear from './components/LeapYear/LeapYear';
 // import URLValidator from './components/URLValidator';
+// import ImageGallery from './components/ImageGallery';
 
-import ImageGallery from './components/ImageGallery';
+import AcronymGenerator from './components/AcronymGenerator';
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       {/* <Counter /> */}
       {/* <LeapYear /> */}
       {/* <URLValidator /> */}
-      <ImageGallery />
+      {/* <ImageGallery /> */}
+      <AcronymGenerator />
     </div>
   );
 }
